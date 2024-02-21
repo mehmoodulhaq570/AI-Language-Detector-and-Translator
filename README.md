@@ -9,7 +9,6 @@ The development of this project was made possible through the contributions of t
 - Mehmood Ul Haq (2021-CE-35)
 - Muhammad Shahzaib (2021-CE-41)
 - Talal Muzammal (2021-CE-47)
-Their efforts and contributions are greatly appreciated in advancing the functionalities and scope of the project.
 
 ## Key Features
 1. **Language Detection:** The model accurately identifies the language of input text, enabling seamless processing of multilingual data.
