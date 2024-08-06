@@ -25,10 +25,8 @@ To use the project, follow these steps:
     ```bash
     git clone https://github.com/your_username/ai-language-detector-translator.git
     ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required dependencies
+
 3. Run the program:
     ```bash
     python main.py
